@@ -41,7 +41,7 @@ This project is licensed under the MIT License - see the file for details.
 📬 Contact
 Have questions or feedback? Reach out!  
 
-📧 Email: srikanthramagani@example.com  
+📧 Email: srikanthramagani@gmail.com  
 🌐 Project:[ GitHub Repository ](https://github.com/srikanthramagani/OrderGo.git) 
 
 
